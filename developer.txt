@@ -5,3 +5,5 @@ line added from master branch.
 third line from dev branch...
 
 last line from master.
+
+line changed.
