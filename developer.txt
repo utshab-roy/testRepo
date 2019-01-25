@@ -9,3 +9,5 @@ last line from master.
 line changed. again changdeddfsdf.
 
 Line added from gitkraken soft.
+
+again changed from the soft.
